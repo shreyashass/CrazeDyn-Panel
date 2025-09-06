@@ -8,12 +8,12 @@ Before running CrazeDyn Panel, you need to install two essential components:
 
 ### 1. Java (OpenJDK)
 - **Required for**: Running Minecraft servers
-- **File**: `openjdk-install.msi` (included in installation folder)
+- **File**: `openjdk-install.bat` (included in installation folder)
 - **Version**: Java 17 or newer recommended
 
 ### 2. Python
 - **Required for**: Running the CrazeDyn Panel application
-- **File**: `python-install.msi` (included in installation folder)
+- **File**: `python-install.bat` (included in installation folder)
 - **Version**: Python 3.8 or newer
 
 ---
@@ -22,14 +22,14 @@ Before running CrazeDyn Panel, you need to install two essential components:
 
 ### Step 1: Install Java
 1. Navigate to your installation folder
-2. Double-click `openjdk-install.msi`
+2. Double-click `openjdk-install.bat`
 3. Follow the installation wizard
 4. Accept default settings
 5. Click "Install" and wait for completion
 6. Restart your computer when prompted
 
 ### Step 2: Install Python
-1. Double-click `python-install.msi`
+1. Double-click `python-install.bat`
 2. **IMPORTANT**: Check "Add Python to PATH" during installation
 3. Choose "Install Now"
 4. Wait for installation to complete
